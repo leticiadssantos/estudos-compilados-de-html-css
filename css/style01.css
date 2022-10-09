@@ -60,3 +60,29 @@ margin-right: 0px;
 margin-bottom: 15px;
 float: left;
 } 
+
+@media screen and (max-width: 798px){
+    body {
+
+        width: auto;
+        background-color: rgb(223, 122, 178);/*depois que diminui a tele muda pra azul*/
+
+ 
+    }
+
+header {
+    min-width: auto;
+}
+
+footer {
+    width: 100%;
+}
+
+
+
+}
+
+
+
+
+    
