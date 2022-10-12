@@ -6,5 +6,7 @@ Uma página da internet - ou website - é desenvolvida pelo web designer. Esse p
 
 Por isso, o web designer se preocupa com a facilidade de uso do site e com as sensações que o design poderá despertar no público que o usará. O web designer projeta sites, blogs, sistemas, aplicativos para web e peças digitais como banners e artes para redes sociais.
 
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/t5hXhd8P8zTe6s0yhW/video" width="480"></iframe></div>
- 
+
+
+
+
